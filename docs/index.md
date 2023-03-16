@@ -6,6 +6,8 @@
 - [Deploy de um contrato](./deploy)
 - [O estado global](./estado-global)
 - [Variáveis públicas](./public-variables)
+- [Remix e contratos](./remix-contracts)
+
 
 
 
